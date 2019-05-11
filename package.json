@@ -8,5 +8,12 @@
     "email": "1290657123@qq.com"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rake-git": "github:afeiship/rake-git"
+  },
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "mini-css-extract-plugin": "^0.6.0"
+  }
 }
