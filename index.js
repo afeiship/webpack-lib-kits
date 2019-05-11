@@ -23,11 +23,11 @@ module.exports = {
     dev: require('./lib/outputs/dev')
   },
   plugins: {
-    clean: require('./lib/plugins/clean')
-    copyAssets: require('./lib/plugins/copy-assets')
-    copyStyles: require('./lib/plugins/copy-styles')
+    clean: require('./lib/plugins/clean'),
+    copyAssets: require('./lib/plugins/copy-assets'),
+    copyStyles: require('./lib/plugins/copy-styles'),
     html: require('./lib/plugins/html'),
     minCssExtract: require('./lib/plugins/min-css-extract'),
-    semver: require('./lib/plugins/semver'),
+    semver: require('./lib/plugins/semver')
   }
 };
