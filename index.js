@@ -10,7 +10,8 @@ module.exports = {
   },
   inputs: {
     build: require('./lib/inputs/build'),
-    dev: require('./lib/inputs/dev')
+    dev: require('./lib/inputs/dev'),
+    docs: require('./lib/inputs/docs')
   },
   loaders: {
     babel: require('./lib/loaders/babel'),
@@ -20,7 +21,8 @@ module.exports = {
   },
   outputs: {
     build: require('./lib/outputs/build'),
-    dev: require('./lib/outputs/dev')
+    dev: require('./lib/outputs/dev'),
+    docs: require('./lib/outputs/docs')
   },
   plugins: {
     clean: require('./lib/plugins/clean'),
