@@ -11,10 +11,15 @@
   "license": "MIT",
   "dependencies": {
     "app-root-path": "^2.2.1",
+    "babel-loader": "^8.0.5",
     "copy-webpack-plugin": "^5.0.3",
+    "css-loader": "^2.1.1",
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.6.0",
+    "postcss-loader": "^3.0.0",
     "rake-git": "github:afeiship/rake-git",
-    "semver-webpack-plugin": "github:afeiship/semver-webpack-plugin"
+    "semver-webpack-plugin": "github:afeiship/semver-webpack-plugin",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2"
   }
 }
