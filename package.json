@@ -9,12 +9,12 @@
   },
   "main": "index.js",
   "license": "MIT",
-  "devDependencies": {
-    "rake-git": "github:afeiship/rake-git"
-  },
   "dependencies": {
     "app-root-path": "^2.2.1",
+    "copy-webpack-plugin": "^5.0.3",
+    "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.6.0",
+    "rake-git": "github:afeiship/rake-git",
     "semver-webpack-plugin": "github:afeiship/semver-webpack-plugin"
   }
 }
