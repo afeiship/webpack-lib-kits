@@ -28,6 +28,7 @@ module.exports = {
     clean: require('./lib/plugins/clean'),
     copyAssets: require('./lib/plugins/copy-assets'),
     copyStyles: require('./lib/plugins/copy-styles'),
+    copy: require('./lib/plugins/copy'),
     html: require('./lib/plugins/html'),
     minCssExtract: require('./lib/plugins/min-css-extract'),
     semver: require('./lib/plugins/semver')
