@@ -1,5 +1,5 @@
 {
-  "name": "webpack-lib-kits",
+  "name": "@feizheng/webpack-lib-kits",
   "version": "1.0.0",
   "description": "Library kits for webpack.",
   "homepage": "https://github.com/afeiship/webpack-lib-kits",
@@ -27,5 +27,8 @@
     "semver-webpack-plugin": "github:afeiship/semver-webpack-plugin",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
