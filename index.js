@@ -18,7 +18,8 @@ module.exports = {
     babel: require('./lib/loaders/babel'),
     css: require('./lib/loaders/css'),
     image: require('./lib/loaders/image'),
-    sass: require('./lib/loaders/sass')
+    sass: require('./lib/loaders/sass'),
+    version: require('./lib/loaders/version')
   },
   outputs: {
     build: require('./lib/outputs/build'),

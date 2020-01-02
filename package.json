@@ -10,8 +10,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@feizheng/check-modules": "^1.0.4",
     "@feizheng/rake-git": "^1.2.0",
     "@feizheng/semver-webpack-plugin": "^1.0.0",
+    "ansi-colors": "*",
     "app-root-path": "^2.2.1",
     "autoprefixer": "^9.5.1",
     "babel-loader": "^8.0.5",
