@@ -33,6 +33,8 @@ module.exports = {
     copy: require('./lib/plugins/copy'),
     html: require('./lib/plugins/html'),
     minCssExtract: require('./lib/plugins/min-css-extract'),
+    offline: require('./lib/plugins/offline'),
+    progressBar: require('./lib/plugins/progress-bar'),
     semver: require('./lib/plugins/semver')
   }
 };
