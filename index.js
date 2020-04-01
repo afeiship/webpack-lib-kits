@@ -34,6 +34,7 @@ module.exports = {
     copyStyles: require('./lib/plugins/copy-styles'),
     copy: require('./lib/plugins/copy'),
     html: require('./lib/plugins/html'),
+    limitChunk: require('./lib/plugins/limit-chunk'),
     minCssExtract: require('./lib/plugins/min-css-extract'),
     offline: require('./lib/plugins/offline'),
     progressBar: require('./lib/plugins/progress-bar'),
