@@ -7,7 +7,8 @@ module.exports = {
     mode: require('./lib/configs/mode')
   },
   externals: {
-    base: require('./lib/externals/base')
+    base: require('./lib/externals/base'),
+    node: require('./lib/externals/node'),
   },
   inputs: {
     build: require('./lib/inputs/build'),
