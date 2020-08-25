@@ -29,6 +29,7 @@ module.exports = {
     docs: require('./lib/outputs/docs')
   },
   plugins: {
+    banner: require('./lib/plugins/banner'),
     clean: require('./lib/plugins/clean'),
     copyAssets: require('./lib/plugins/copy-assets'),
     copyStyles: require('./lib/plugins/copy-styles'),
