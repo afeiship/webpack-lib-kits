@@ -12,3 +12,4 @@ gulpfile.js
 .prettierrc
 Gemfile
 Rakefile
+.release-it.json

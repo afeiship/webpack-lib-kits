@@ -1,6 +1,6 @@
 {
-  "name": "@feizheng/webpack-lib-kits",
-  "version": "1.1.30",
+  "name": "@jswork/webpack-lib-kits",
+  "version": "1.0.0",
   "description": "Library kits for webpack.",
   "homepage": "https://github.com/afeiship/webpack-lib-kits",
   "author": {
@@ -10,12 +10,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@feizheng/check-modules": "^1.0.4",
-    "@feizheng/next-absolute-package": "^1.0.6",
-    "@feizheng/next-nice-comments": "^1.1.1",
-    "@feizheng/rake-git": "^1.2.1",
-    "@feizheng/semver-webpack-plugin": "^1.0.2",
-    "ansi-colors": "*",
+    "@jswork/check-modules": "^1.0.0",
+    "@jswork/next-absolute-package": "^1.0.0",
+    "@jswork/next-nice-comments": "^1.0.1",
+    "@jswork/semver-webpack-plugin": "^1.0.0",
     "app-root-path": "^3.0.0",
     "autoprefixer": "^10.0.1",
     "babel-loader": "^8.1.0",
@@ -37,6 +35,13 @@
     "webpack-node-externals": "^2.5.2"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.2.1"
   }
 }

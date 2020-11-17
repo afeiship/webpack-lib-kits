@@ -12,14 +12,14 @@
 ## license
 Code released under [the MIT license](https://github.com/afeiship/webpack-lib-kits/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/webpack-lib-kits
-[version-url]: https://npmjs.org/package/@feizheng/webpack-lib-kits
+[version-image]: https://img.shields.io/npm/v/@jswork/webpack-lib-kits
+[version-url]: https://npmjs.org/package/@jswork/webpack-lib-kits
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/webpack-lib-kits
+[license-image]: https://img.shields.io/npm/l/@jswork/webpack-lib-kits
 [license-url]: https://github.com/afeiship/webpack-lib-kits/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/webpack-lib-kits
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/webpack-lib-kits
 [size-url]: https://github.com/afeiship/webpack-lib-kits/blob/master/dist/webpack-lib-kits.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/webpack-lib-kits
-[download-url]: https://www.npmjs.com/package/@feizheng/webpack-lib-kits
+[download-image]: https://img.shields.io/npm/dm/@jswork/webpack-lib-kits
+[download-url]: https://www.npmjs.com/package/@jswork/webpack-lib-kits
