@@ -10,6 +10,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@feizheng/noop": "^1.0.0",
     "@jswork/check-modules": "^1.0.0",
     "@jswork/next-absolute-package": "^1.0.0",
     "@jswork/next-nice-comments": "^1.0.1",
