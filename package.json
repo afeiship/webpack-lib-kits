@@ -1,6 +1,6 @@
 {
   "name": "@jswork/webpack-lib-kits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library kits for webpack.",
   "homepage": "https://github.com/afeiship/webpack-lib-kits",
   "author": {
@@ -43,5 +43,11 @@
   },
   "devDependencies": {
     "release-it": "^14.2.1"
-  }
+  },
+  "keywords": [
+    "webpack",
+    "library",
+    "kits",
+    "lib"
+  ]
 }
