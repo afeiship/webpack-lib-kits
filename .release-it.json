@@ -1,10 +1,9 @@
 {
-  "hooks": {
-    "after:init": [
-      "t2k"
-    ]
+  "git": {
+    "requireCleanWorkingDir": false
   },
   "github": {
-    "release": true
+    "release": true,
+    "proxy": "http://127.0.0.1:9090"
   }
 }

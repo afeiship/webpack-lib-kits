@@ -10,10 +10,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@jswork/noop": "^1.0.0",
     "@jswork/check-modules": "^1.0.0",
     "@jswork/next-absolute-package": "^1.0.0",
     "@jswork/next-nice-comments": "^1.0.1",
+    "@jswork/noop": "^1.0.0",
     "@jswork/semver-webpack-plugin": "^1.0.0",
     "app-root-path": "^3.0.0",
     "autoprefixer": "^10.0.1",
@@ -41,7 +41,7 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "release-it": "^14.2.1"
+    "release-it": "^15.5.0"
   },
   "keywords": [
     "webpack",
